@@ -11,10 +11,10 @@ section
 
 
 .image-1 {
-  background-image: url("./Imagenes/f1 image.jpg")
+  background-image: url("./f1 image.jpg")
 }
 .image-2 {
-  background-image: url("./Imagenes/max-verstappen-canadian-grand-prix-2023.avif")
+  background-image: url("./max-verstappen-canadian-grand-prix-2023.avif")
 }
 
 /* Tercera seccion: tres imagenes en paralelo */
@@ -51,7 +51,7 @@ section
 }
 
 .image-4 {
-  background-image: url("./Imagenes/SENNA HEROIC VICTORY.jpg")
+  background-image: url("./SENNA HEROIC VICTORY.jpg")
 }
 
 .section-button {
